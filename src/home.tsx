@@ -331,7 +331,7 @@ function Home() {
         {/* Hero Image */}
         <div className="w-full">
           <img
-            src="https://i.ibb.co/DHXW4W8q/Gemini-Generated-Image-gzwzbrgzwzbrgzwz.png"
+            src="/src/img/banner-mobile.png"
             alt="IPL 2026"
             className="w-full"
           />
