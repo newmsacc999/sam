@@ -331,7 +331,7 @@ function Home() {
         {/* Hero Image */}
         <div className="w-full">
           <img
-            src="/src/img/banner-mobile.png"
+            src="https://i.postimg.cc/dVSJ66H2/banner-mobile.png"
             alt="IPL 2026"
             className="w-full"
           />
