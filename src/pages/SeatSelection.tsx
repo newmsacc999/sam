@@ -76,13 +76,13 @@ function SeatSelection() {
   
   // Bottom ticket types with different prices
   const bottomTicketTypes = [
-    { id: 'general', name: 'General Stand', price: 100, description: 'Affordable seating, usually in the upper stands.' },
-    { id: 'premium', name: 'Premium Stand', price: 200, description: 'Better view with comfortable seating.' },
-    { id: 'pavilion', name: 'Pavilion Stand', price: 250, description: 'Premium seating with excellent view of the pitch.' },
-    { id: 'vip', name: 'VIP Stand', price: 400, description: 'Exclusive seating with premium amenities.' },
-    { id: 'corporate', name: 'Corporate Box', price: 500, description: 'Private box for corporate groups with catering.' },
-    { id: 'hospitality', name: 'Hospitality Box', price: 750, description: 'Luxury experience with food and beverages included.' },
-    { id: 'skybox', name: 'Skybox/Lounge', price: 999, description: 'Ultimate luxury experience with panoramic views.' },
+    { id: 'general', name: 'General Stand', price: 599, description: 'Affordable seating, usually in the upper stands.' },
+    { id: 'premium', name: 'Premium Stand', price: 999, description: 'Better view with comfortable seating.' },
+    { id: 'pavilion', name: 'Pavilion Stand', price: 1599, description: 'Premium seating with excellent view of the pitch.' },
+    { id: 'vip', name: 'VIP Stand', price: 1999, description: 'Exclusive seating with premium amenities.' },
+    { id: 'corporate', name: 'Corporate Box', price: 2599, description: 'Private box for corporate groups with catering.' },
+    { id: 'hospitality', name: 'Hospitality Box', price: 2999, description: 'Luxury experience with food and beverages included.' },
+    { id: 'skybox', name: 'Skybox/Lounge', price: 3999, description: 'Ultimate luxury experience with panoramic views.' },
   ];
 
   const handleTicketTypeSelect = (id: string) => {
