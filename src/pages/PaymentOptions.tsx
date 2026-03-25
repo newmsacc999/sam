@@ -241,7 +241,7 @@ function PaymentOptions() {
                 </div>
               </div>
 
-              <div className="mt-3">
+              {/* <div className="mt-3">
                 <button
                   className="border rounded-md p-3 w-full flex items-center justify-center hover:bg-gray-50 active:bg-gray-100 transition-colors"
                   onClick={handleOtherUpiClick}
@@ -251,7 +251,7 @@ function PaymentOptions() {
                   </div>
                   <span className="text-sm font-medium">Other UPI Apps</span>
                 </button>
-              </div>
+              </div> */}
             </div>
           )}
         </div>
