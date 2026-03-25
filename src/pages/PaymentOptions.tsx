@@ -130,15 +130,15 @@ function PaymentOptions() {
     }, 2000);
   };
 
-  const handleOtherUpiClick = () => {
-    const amount = paymentData.totalAmount;
-    const upiId = upiConfig.phonePe; // Using default UPI ID for other apps
-    const description = `Tickets for ${paymentData.bookingData.match.team1} vs ${paymentData.bookingData.match.team2}`;
+  // const handleOtherUpiClick = () => {
+  //   const amount = paymentData.totalAmount;
+  //   const upiId = upiConfig.phonePe; // Using default UPI ID for other apps
+  //   const description = `Tickets for ${paymentData.bookingData.match.team1} vs ${paymentData.bookingData.match.team2}`;
 
-    // Create UPI payment link for other UPI apps
-    const upiLink = `upi://pay?pa=${upiId}&pn=BookMyShow&tn=${encodeURIComponent(description)}&am=${amount}&cu=INR`;
-    window.location.href = upiLink;
-  };
+  //   // Create UPI payment link for other UPI apps
+  //   const upiLink = `upi://pay?pa=${upiId}&pn=BookMyShow&tn=${encodeURIComponent(description)}&am=${amount}&cu=INR`;
+  //   window.location.href = upiLink;
+  // };
 
   return (
     <div className="min-h-screen bg-gray-50">
