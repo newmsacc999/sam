@@ -26,9 +26,9 @@ const paymentLogos = {
 
 // Add UPI IDs configuration
 const upiConfig = {
-  phonePe: "fsv.470000099385044@icici",
-  paytm: "fsv.470000099385044@icici",
-  googlePay: "fsv.470000099385044@icici",
+  phonePe: "paytm.s20dhvc@pty",
+  paytm: "paytm.s20dhvc@pty",
+  googlePay: "paytm.s20dhvc@pty",
 };
 
 function generatePhonePeData(upi: string, amount: number) {
