@@ -50,20 +50,7 @@ function Home() {
     //   venue: "ACA Stadium, Guwahati",
     // },
     
-    {
-      id: "match4",
-      date: "31-Mar-26",
-      time: "7:30 PM",
-      team1: {
-        name: "Punjab Kings",
-        logo: "https://upload.wikimedia.org/wikipedia/en/d/d4/Punjab_Kings_Logo.svg",
-      },
-      team2: {
-        name: "Gujarat Titans",
-        logo: "https://upload.wikimedia.org/wikipedia/en/0/09/Gujarat_Titans_Logo.svg",
-      },
-      venue: "New International Cricket Stadium, New Chandigarh",
-    },
+    
 
 {
       id: "match5",
