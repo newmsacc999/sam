@@ -31,7 +31,7 @@ function SeatSelection() {
     "Wankhede Stadium, Mumbai": "https://t20slam.com/wp-content/uploads/2020/03/Wankhede-stadium-map-with-seat-numbers.jpg",
     "M. Chinnaswamy Stadium, Bengaluru": "https://cdn.shopify.com/s/files/1/0278/4565/6649/files/WhatsApp_Image_2023-10-02_at_18.06.17.webp",
     "Eden Gardens, Kolkata": "https://ipltickets.in/wp-content/uploads/2024/02/kolkata-eden-gardens-stadium-stands-pavilions-seat-chart.jpg",
-    "MA Chidambaram Stadium, Chennai": "https://ultimatecricketguru.com/wp-content/uploads/2023/09/m-chinnaswamy-stadium-bangalore-seating-plan.webp",
+    "MA Chidambaram Stadium, Chennai": "https://pbs.twimg.com/media/GmX9vH4bAAA8JCs?format=jpg",
     "Arun Jaitley Stadium, Delhi": "https://www.xchangetickets.co.uk/seatingplans/venue_1154.jpg",
     "Rajiv Gandhi International Stadium, Hyderabad": "https://assets.isu.pub/document-structure/230315054443-5af6010b1e320f4688b2f873e7154667/v1/4e43fccb3dabbcc2559d4ca250350baf.jpeg",
     "Sawai Mansingh Stadium, Jaipur": "https://indiaongo.in/wp-content/uploads/2018/04/sms-stadium-jaipur-seating-layout-arrangements.png",
