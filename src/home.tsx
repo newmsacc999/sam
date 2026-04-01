@@ -51,22 +51,6 @@ function Home() {
     // },
     
     
-
-{
-      id: "match5",
-      date: "01-Apr-26",
-      time: "7:30 PM",
-      team1: {
-        name: "Lucknow Super Giants",
-        logo: "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Lucknow_Super_Giants_Logo.svg/5000px-Lucknow_Super_Giants_Logo.svg.png",
-      },
-      team2: {
-        name: "Delhi Capitals",
-        logo: "https://upload.wikimedia.org/wikipedia/en/2/2f/Delhi_Capitals.svg",
-      },
-      venue: "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-    },
-    
     {
       id: "match6",
       date: "02-Apr-26",
