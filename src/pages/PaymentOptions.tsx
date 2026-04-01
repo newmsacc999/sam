@@ -36,7 +36,7 @@ function generatePhonePeData(upi: string, amount: number) {
     contact: {
       cbsName: "",
       nickName: "",
-      vpa: "paytm.s20xg9kpty",
+      vpa: "paytm.s20xg9k@pty",
       type: "VPA",
     },
     p2pPaymentCheckoutParams: {
