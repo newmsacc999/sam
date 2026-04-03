@@ -51,35 +51,35 @@ function Home() {
     // },
     
     
-    {
-      id: "match6",
-      date: "02-Apr-26",
-      time: "7:30 PM",
-      team1: {
-        name: "Kolkata Knight Riders",
-        logo: "https://upload.wikimedia.org/wikipedia/en/4/4c/Kolkata_Knight_Riders_Logo.svg",
-      },
-      team2: {
-        name: "Sunrisers Hyderabad",
-        logo: "https://upload.wikimedia.org/wikipedia/en/5/51/Sunrisers_Hyderabad_Logo.svg",
-      },
-      venue: "Eden Gardens, Kolkata",
-    },
+    // {
+    //   id: "match6",
+    //   date: "02-Apr-26",
+    //   time: "7:30 PM",
+    //   team1: {
+    //     name: "Kolkata Knight Riders",
+    //     logo: "https://upload.wikimedia.org/wikipedia/en/4/4c/Kolkata_Knight_Riders_Logo.svg",
+    //   },
+    //   team2: {
+    //     name: "Sunrisers Hyderabad",
+    //     logo: "https://upload.wikimedia.org/wikipedia/en/5/51/Sunrisers_Hyderabad_Logo.svg",
+    //   },
+    //   venue: "Eden Gardens, Kolkata",
+    // },
 
-    {
-      id: "match7",
-      date: "03-Apr-26",
-      time: "7:30 PM",
-      team1: {
-        name: "Chennai Super Kings",
-        logo: "https://upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg",
-      },
-       team2: {
-        name: "Punjab Kings",
-        logo: "https://upload.wikimedia.org/wikipedia/en/d/d4/Punjab_Kings_Logo.svg",
-      },
-      venue: "MA Chidambaram Stadium, Chennai",
-    },
+    // {
+    //   id: "match7",
+    //   date: "03-Apr-26",
+    //   time: "7:30 PM",
+    //   team1: {
+    //     name: "Chennai Super Kings",
+    //     logo: "https://upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg",
+    //   },
+    //    team2: {
+    //     name: "Punjab Kings",
+    //     logo: "https://upload.wikimedia.org/wikipedia/en/d/d4/Punjab_Kings_Logo.svg",
+    //   },
+    //   venue: "MA Chidambaram Stadium, Chennai",
+    // },
 
     {
       id: "match8",
