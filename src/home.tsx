@@ -83,34 +83,7 @@ function Home() {
 
     
 
-    {
-      id: "match10",
-      date: "05-Apr-26",
-      time: "3:30 PM",
-      team1: {
-        name: "Sunrisers Hyderabad",
-        logo: "https://upload.wikimedia.org/wikipedia/en/5/51/Sunrisers_Hyderabad_Logo.svg",
-      },
-      team2: {
-        name: "Lucknow Super Giants",
-        logo: "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Lucknow_Super_Giants_Logo.svg/5000px-Lucknow_Super_Giants_Logo.svg.png",
-      },
-      venue: "Rajiv Gandhi International Stadium, Hyderabad",
-    },
-    {
-      id: "match11",
-      date: "05-Apr-26",
-      time: "7:30 PM",
-      team1: {
-        name: "Royal Challengers Bengaluru",
-        logo: "https://upload.wikimedia.org/wikipedia/en/d/d4/Royal_Challengers_Bengaluru_Logo.svg",
-      },
-      team2: {
-        name: "Chennai Super Kings",
-        logo: "https://upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg",
-      },
-      venue: "M. Chinnaswamy Stadium, Bengaluru",
-    },
+    
     {
       id: "match12",
       date: "06-Apr-26",
