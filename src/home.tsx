@@ -85,48 +85,7 @@ function Home() {
 
     
     
-    {
-      id: "match13",
-      date: "07-Apr-26",
-      time: "7:30 PM",
-      team1: {
-        name: "Rajasthan Royals",
-        logo: "https://upload.wikimedia.org/wikipedia/en/5/5c/This_is_the_logo_for_Rajasthan_Royals%2C_a_cricket_team_playing_in_the_Indian_Premier_League_%28IPL%29.svg",
-      },
-      team2: {
-        name: "Mumbai Indians",
-        logo: "https://upload.wikimedia.org/wikipedia/en/c/cd/Mumbai_Indians_Logo.svg",
-      },
-      venue: "ACA Stadium, Guwahati",
-    },
-    {
-      id: "match14",
-      date: "08-Apr-26",
-      time: "7:30 PM",
-      team1: {
-        name: "Delhi Capitals",
-        logo: "https://upload.wikimedia.org/wikipedia/en/2/2f/Delhi_Capitals.svg",
-      },
-      team2: {
-        name: "Gujarat Titans",
-        logo: "https://upload.wikimedia.org/wikipedia/en/0/09/Gujarat_Titans_Logo.svg",
-      },
-      venue: "Arun Jaitley Stadium, Delhi",
-    },
-    {
-      id: "match15",
-      date: "09-Apr-26",
-      time: "7:30 PM",
-      team1: {
-        name: "Kolkata Knight Riders",
-        logo: "https://upload.wikimedia.org/wikipedia/en/4/4c/Kolkata_Knight_Riders_Logo.svg",
-      },
-      team2: {
-        name: "Lucknow Super Giants",
-        logo: "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Lucknow_Super_Giants_Logo.svg/5000px-Lucknow_Super_Giants_Logo.svg.png",
-      },
-      venue: "Eden Gardens, Kolkata",
-    },
+    
     {
       id: "match16",
       date: "10-Apr-26",
