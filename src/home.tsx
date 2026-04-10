@@ -99,7 +99,7 @@ function Home() {
         name: "Sunrisers Hyderabad",
         logo: "https://upload.wikimedia.org/wikipedia/en/5/51/Sunrisers_Hyderabad_Logo.svg",
       },
-      venue: "PCA Stadium, New Chandigarh",
+      venue: "New International Cricket Stadium, New Chandigarh",
     },
     {
       id: "match18",
