@@ -81,27 +81,6 @@ function Home() {
     //   venue: "MA Chidambaram Stadium, Chennai",
     // },
 
-    
-
-    
-    
-    
-    
-    
-    {
-      id: "match18",
-      date: "11-Apr-26",
-      time: "7:30 PM",
-      team1: {
-        name: "Chennai Super Kings",
-        logo: "https://upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg",
-      },
-      team2: {
-        name: "Delhi Capitals",
-        logo: "https://upload.wikimedia.org/wikipedia/en/2/2f/Delhi_Capitals.svg",
-      },
-      venue: "MA Chidambaram Stadium, Chennai",
-    },
     {
       id: "match19",
       date: "12-Apr-26",
