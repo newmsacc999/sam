@@ -87,20 +87,7 @@ function Home() {
     
     
     
-    {
-      id: "match17",
-      date: "11-Apr-26",
-      time: "3:30 PM",
-      team1: {
-        name: "Punjab Kings",
-        logo: "https://upload.wikimedia.org/wikipedia/en/d/d4/Punjab_Kings_Logo.svg",
-      },
-      team2: {
-        name: "Sunrisers Hyderabad",
-        logo: "https://upload.wikimedia.org/wikipedia/en/5/51/Sunrisers_Hyderabad_Logo.svg",
-      },
-      venue: "New International Cricket Stadium, New Chandigarh",
-    },
+    
     {
       id: "match18",
       date: "11-Apr-26",
