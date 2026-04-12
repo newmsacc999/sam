@@ -81,20 +81,7 @@ function Home() {
     //   venue: "MA Chidambaram Stadium, Chennai",
     // },
 
-    {
-      id: "match19",
-      date: "12-Apr-26",
-      time: "3:30 PM",
-      team1: {
-        name: "Lucknow Super Giants",
-        logo: "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Lucknow_Super_Giants_Logo.svg/5000px-Lucknow_Super_Giants_Logo.svg.png",
-      },
-      team2: {
-        name: "Gujarat Titans",
-        logo: "https://upload.wikimedia.org/wikipedia/en/0/09/Gujarat_Titans_Logo.svg",
-      },
-      venue: "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-    },
+    
     {
       id: "match20",
       date: "12-Apr-26",
