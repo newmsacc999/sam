@@ -79,7 +79,7 @@ function Home() {
         name: "Kolkata Knight Riders",
         logo: "https://upload.wikimedia.org/wikipedia/en/4/4c/Kolkata_Knight_Riders_Logo.svg",
       },
-      venue: "MA Chidambaram Stadium, Chennai",
+      venue: "Narendra Modi Stadium, Ahmedabad",
     },
   ];
   // Filter out past matches
