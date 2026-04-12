@@ -12,13 +12,13 @@ function Home() {
       id: "match21",
       date: "13-Apr-26",
       time: "7:30 PM",
-        team2: {
+        team1: {
         name: "Sunrisers Hyderabad",
         logo: "https://upload.wikimedia.org/wikipedia/en/5/51/Sunrisers_Hyderabad_Logo.svg",
       },
-      team1: {
-        name: "Royal Challengers Bengaluru",
-        logo: "https://upload.wikimedia.org/wikipedia/en/d/d4/Royal_Challengers_Bengaluru_Logo.svg",
+        team2: {
+        name: "Rajasthan Royals",
+        logo: "https://upload.wikimedia.org/wikipedia/en/5/5c/This_is_the_logo_for_Rajasthan_Royals%2C_a_cricket_team_playing_in_the_Indian_Premier_League_%28IPL%29.svg",
       },
       venue: "Rajiv Gandhi International Stadium, Hyderabad",
     },
