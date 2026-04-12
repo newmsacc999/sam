@@ -48,7 +48,7 @@ function Home() {
         name: "Lucknow Super Giants",
         logo: "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Lucknow_Super_Giants_Logo.svg/5000px-Lucknow_Super_Giants_Logo.svg.png",
       },
-      venue: "M. Chinnaswamy Stadium",
+      venue: "M. Chinnaswamy Stadium, Bengaluru",
     },
     
     
