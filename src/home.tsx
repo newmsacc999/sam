@@ -711,7 +711,7 @@ function Home() {
   });
 
   // Get visible matches based on showAllMatches state
-  const visibleMatches = showAllMatches ? upcomingMatches : upcomingMatches.slice(0, 3);
+  // const visibleMatches = showAllMatches ? upcomingMatches : upcomingMatches.slice(0, 3);
   // const visibleMatches = showAllMatches ? matches : matches.slice(0, 3);
 
   return (
