@@ -9,20 +9,7 @@ function Home() {
   const matches = [
   
   
-  {
-    "id": "match22",
-    "date": "14-Apr-2026",
-    "time": "7:30 PM",
-    "team1": {
-      "name": "Chennai Super Kings",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg"
-    },
-    "team2": {
-      "name": "Kolkata Knight Riders",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/4/4c/Kolkata_Knight_Riders_Logo.svg"
-    },
-    "venue": "MA Chidambaram Stadium, Chennai"
-  },
+  
   {
     "id": "match23",
     "date": "15-Apr-2026",
