@@ -10,20 +10,7 @@ function Home() {
   
   
   
-  {
-    "id": "match23",
-    "date": "15-Apr-2026",
-    "time": "7:30 PM",
-    "team1": {
-      "name": "Royal Challengers Bengaluru",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/d/d4/Royal_Challengers_Bengaluru_Logo.svg"
-    },
-    "team2": {
-      "name": "Lucknow Super Giants",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Lucknow_Super_Giants_Logo.svg/5000px-Lucknow_Super_Giants_Logo.svg.png"
-    },
-    "venue": "M. Chinnaswamy Stadium, Bengaluru"
-  },
+  
   {
     "id": "match24",
     "date": "16-Apr-2026",
