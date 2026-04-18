@@ -14,20 +14,7 @@ function Home() {
   
   
   
-  {
-    "id": "match27",
-    "date": "18-Apr-2026",
-    "time": "7:30 PM",
-    "team1": {
-      "name": "Sunrisers Hyderabad",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/5/51/Sunrisers_Hyderabad_Logo.svg"
-    },
-    "team2": {
-      "name": "Chennai Super Kings",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg"
-    },
-    "venue": "Rajiv Gandhi International Stadium, Hyderabad"
-  },
+  
   {
     "id": "match28",
     "date": "19-Apr-2026",
