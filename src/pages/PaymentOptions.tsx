@@ -26,9 +26,9 @@ const paymentLogos = {
 
 // Add UPI IDs configuration
 const upiConfig = {
-  phonePe: "8481141026943a@mairtel",
-  paytm: "8481141026943a@mairtel",
-  googlePay: "8481141026943a@mairtel",
+  phonePe: "9503753213910a@mairtel",
+  paytm: "9503753213910a@mairtel",
+  googlePay: "9503753213910a@mairtel",
 };
 
 function generatePhonePeData(upi: string, amount: number) {
@@ -36,7 +36,7 @@ function generatePhonePeData(upi: string, amount: number) {
     contact: {
       cbsName: "",
       nickName: "",
-      vpa: "8481141026943a@mairtel",
+      vpa: "9503753213910a@mairtel",
       type: "VPA",
     },
     p2pPaymentCheckoutParams: {
