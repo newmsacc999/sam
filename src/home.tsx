@@ -11,34 +11,7 @@ function Home() {
   
   
   
-  {
-    "id": "match37",
-    "date": "26-Apr-2026",
-    "time": "3:30 PM",
-    "team1": {
-      "name": "Gujarat Titans",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/0/09/Gujarat_Titans_Logo.svg"
-    },
-    "team2": {
-      "name": "Chennai Super Kings",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg"
-    },
-    "venue": "MA Chidambaram Stadium, Chennai"
-  },
-  {
-    "id": "match38",
-    "date": "26-Apr-2026",
-    "time": "7:30 PM",
-    "team1": {
-      "name": "Lucknow Super Giants",
-      "logo": "https://scores.iplt20.com/ipl/teamlogos/b7GnGJW4bi1772703245LSG.png"
-    },
-    "team2": {
-      "name": "Kolkata Knight Riders",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/4/4c/Kolkata_Knight_Riders_Logo.svg"
-    },
-    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-  },
+  
   {
     "id": "match39",
     "date": "27-Apr-2026",
